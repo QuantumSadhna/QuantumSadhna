@@ -1,4 +1,4 @@
-# QuantumSadhna
+# Sadhna Drall
 
 ![MY_BG](MY_BG.png)
 

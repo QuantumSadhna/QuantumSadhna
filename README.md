@@ -1,5 +1,7 @@
 # QuantumSadhna
 
+![MY_BG](MY_BG.png)
+
 Welcome to my personal repository! This is a space where I document my journey, projects, hobbies, and interests. Explore the sections below to learn more about me.
 
 ---
